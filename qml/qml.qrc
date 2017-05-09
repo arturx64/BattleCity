@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>MapBoard.qml</file>
+        <file>PlayerTank.qml</file>
+        <file>Projectile.qml</file>
+        <file>EnemyTank.qml</file>
+        <file>Menu.qml</file>
+        <file>Button.qml</file>
+        <file>Main.qml</file>
+    </qresource>
+    <qresource prefix="/qml/pages">
+        <file>GamePage.qml</file>
+        <file>MenuPage.qml</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>Textures/landscape.png</file>
+        <file>Textures/tank_1.png</file>
+        <file>Textures/tank_2.png</file>
+        <file>Textures/brick.png</file>
+        <file>Textures/metal.png</file>
+        <file>Textures/eagle.png</file>
+    </qresource>
+</RCC>
